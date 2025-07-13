@@ -14,7 +14,7 @@ export default function Login(props: ILoginProps) {
                 variant='contained'
                 color='primary'
             >
-                Přihlásit se
+                Přihlásit s
             </Button>
         </Box>
     );
