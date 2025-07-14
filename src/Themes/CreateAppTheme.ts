@@ -10,7 +10,7 @@ export default function createAppTheme(): Theme {
                 main: '#FFFFFF',
             },
             background: {
-                default: '#000000',
+                default: '#FFFFFF',
             },
         },
         components: {

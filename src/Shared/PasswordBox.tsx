@@ -14,6 +14,7 @@ export default function PasswordBox(props: IPasswordBoxProps) {
 
     return (
         <TextField
+            label="Heslo"
             type={showPassword ? 'text' : 'password'}
             value={password}
             onChange={(e) => setPassword(e.target.value)}
